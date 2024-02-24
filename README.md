@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Spring Boot 3,React**
 
-- 📫 How to reach me **lwei@gmail.com**
+- 📫 How to reach me **lwei6793@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:lwei6793@gmail.com</h3>
 <p align="left">
 </p>
 
