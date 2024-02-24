@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **lwei6793@gmail.com**
 
-<h3 align="left">Connect with me:lwei6793@gmail.com</h3>
 <p align="left">
 </p>
 
